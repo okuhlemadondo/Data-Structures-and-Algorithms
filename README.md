@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms
 
 This repository is dedicated to my journey of mastering data structures and algorithms through hands-on practice and skill development. It showcases:
 
